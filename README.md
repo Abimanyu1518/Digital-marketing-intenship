@@ -12,3 +12,5 @@ Mentor name - Neela santhosh
 
 #TASK3: Part1 - [Marvel_Creations_Task-3_SEO_Strategy_and_Checklist.pdf](https://github.com/user-attachments/files/24464943/Marvel_Creations_Task-3_SEO_Strategy_and_Checklist.pdf)
         Part2 - [Marvel_Creations_Task-3_SEO_Strategy_and_Checklist_Updated.pdf](https://github.com/user-attachments/files/24464948/Marvel_Creations_Task-3_SEO_Strategy_and_Checklist_Updated.pdf)
+
+#TASK4:[Marvel_Creations_Task-4_Brand_Reputation_Management.pdf](https://github.com/user-attachments/files/24465016/Marvel_Creations_Task-4_Brand_Reputation_Management.pdf)
