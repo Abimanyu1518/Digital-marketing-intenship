@@ -10,5 +10,5 @@ Mentor name - Neela santhosh
 
 #TASK2:[Task2_Content_Marketing_Strategy_Marvel_Creations.pdf](https://github.com/user-attachments/files/24445356/Task2_Content_Marketing_Strategy_Marvel_Creations.pdf)
 
-#TASK3: Part1 - 
+#TASK3: Part1 - [Marvel_Creations_Task-3_SEO_Strategy_and_Checklist.pdf](https://github.com/user-attachments/files/24464943/Marvel_Creations_Task-3_SEO_Strategy_and_Checklist.pdf)
         Part2 -
